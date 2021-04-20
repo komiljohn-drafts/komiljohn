@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Komiljon
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django
-- 📫 How to reach me @telegram.me/komiljohn
+- 📫 You can reach me on [tg@komiljohn](http://telegram.me/komiljon)
 
 <!---
 komiljohn/komiljohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
