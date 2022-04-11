@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Komiljon
+- 👋 Hi, I’m a Frontend Developer with 3+ years of experience
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Django
 - 📫 You can reach me on [tg@komiljohn](http://telegram.me/komiljohn)
